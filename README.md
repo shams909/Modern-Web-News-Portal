@@ -442,7 +442,7 @@ graph TB
     
     I --> J
     
-    style E fill:#00d4ff
+    style E fill:#b98922
     style I fill:#7c3aed
     style J fill:#10b981
 ```
@@ -522,7 +522,7 @@ graph LR
     H --> I[Deploy to Server]
     I --> J[Run Prisma Migrations]
     
-    style D fill:#00d4ff
+    style D fill:#10b981
     style G fill:#7c3aed
 ```
 
