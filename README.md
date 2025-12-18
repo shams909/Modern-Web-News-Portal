@@ -10,7 +10,7 @@ It's an web news portal for a client with news paper theme with lots of function
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql)](https://www.postgresql.org/)
 [![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://vercel.com)
 [![Railway](https://img.shields.io/badge/Backend-Railway-purple?logo=railway)](https://railway.app)
-[![Neon](https://img.shields.io/badge/Database-Neon-aurora?logo=neon)](https://neon.tech)
+[![Neon](https://img.shields.io/badge/Database-Neon-aurora-green?logo=neon)](https://neon.tech)
 [![Cloudinary](https://img.shields.io/badge/Cloudinary-Cloudinary-blue?logo=cloudinary)](https://cloudinary.com)
 [![Vercel Analytics](https://img.shields.io/badge/Analytics-Vercel-black?logo=vercel)](https://vercel.com)
 ---
