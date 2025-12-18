@@ -397,7 +397,7 @@ graph TB
         I --> L[Auto-Suspend Status]
     end
     
-    style A fill:#00d4ff
+    style A fill:#696969
     style E fill:#7c3aed
     style I fill:#10b981
 ```
