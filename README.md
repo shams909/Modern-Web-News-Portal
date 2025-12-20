@@ -624,4 +624,4 @@ This project is proprietary and confidential.
 
 ---
 
-**Built with ❤️ using Next.js, Fastify, and PostgreSQL**
+**Built with 🖤 using Next.js, Fastify, and PostgreSQL**
